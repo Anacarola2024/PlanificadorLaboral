@@ -1,3 +1,9 @@
+
+<img width="442" alt="Captura de planificador" src="https://github.com/user-attachments/assets/f2aa3bbd-b089-4113-a9a1-d71368b8b1c4" />
+<img width="407" alt="Captura de pantalla planificador2" src="https://github.com/user-attachments/assets/22bf49fc-8544-4e97-9a9f-aa9cccb313c5" />
+
+
+
 # Planificador
 formulario de planificacion reciclable para agregar datos x|
 
